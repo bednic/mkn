@@ -1,0 +1,2 @@
+# mkn
+Czech MKN dictionary
