@@ -9,6 +9,13 @@
             "email": "tomas.benedikt@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "MKN": "src/"
+        }
+    }
 }
