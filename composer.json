@@ -1,0 +1,14 @@
+{
+    "name": "bednic/mkn",
+    "description": "Czech MKN database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Benedikt",
+            "email": "tomas.benedikt@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
